@@ -1,7 +1,7 @@
 # Computer-Networks-CSBS
 CN Assignment c program files for CSBS, Sister Nivedita University Students
 
-1. TCP Single-Client <br>
+1. TCP Single-Client <br><strong>Commands to Execute:</strong><br><i>In Terminal 1:</i> -> gcc tcp_single_server.c -o server<br><i>In Terminal 2:</i> -> gcc tcp_single_client.c -o client<br><i>Then in Terminal 1:</i><br>./server<br><i>Then in Terminal 2:</i><br> ./client
 2. TCP Multi-Client <br>
 3. UDP Multi-Client <br>
 4. Chat Server using UDP <br>
